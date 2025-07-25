@@ -14,3 +14,7 @@ pypdf
 streamlit
 phidata
 google-generativeai
+agno
+lancedb
+tantivy
+pylance
